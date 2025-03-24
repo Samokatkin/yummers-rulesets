@@ -12,3 +12,4 @@ payload:
   - GEOSITE,ookla-speedtest
   - GEOSITE,cloudflare
   - DOMAIN-SUFFIX,yaoilib.net
+  - PROCESS-PATH,com.discordapp.Discord
