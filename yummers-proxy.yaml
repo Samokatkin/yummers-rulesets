@@ -1,0 +1,14 @@
+payload:
+  - GEOSITE,google-gemini
+  - PROCESS-NAME,Discord.exe
+  - PROCESS-NAME,com.supercell.clashofclans
+  - PROCESS-NAME,com.supercell.brawlstars
+  - DOMAIN,2ip.io
+  - GEOSITE,youtube
+  - DOMAIN-SUFFIX,dnsleaktest.com
+  - DOMAIN-SUFFIX,browserleaks.com
+  - DOMAIN-SUFFIX,ua
+  - DOMAIN-SUFFIX,remna.st
+  - GEOSITE,ookla-speedtest
+  - GEOSITE,cloudflare
+  - DOMAIN-SUFFIX,yaoilib.net
