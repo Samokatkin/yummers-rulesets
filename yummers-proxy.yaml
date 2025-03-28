@@ -4,7 +4,6 @@ payload:
   - PROCESS-NAME,com.supercell.clashofclans
   - PROCESS-NAME,com.supercell.brawlstars
   - DOMAIN,2ip.io
-  - GEOSITE,youtube
   - DOMAIN-SUFFIX,dnsleaktest.com
   - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,ua
@@ -14,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,yaoilib.net
   - PROCESS-PATH,com.discordapp.Discord
   - DOMAIN-SUFFIX,jut.su
+  - DOMAIN-SUFFIX,kemono.su
