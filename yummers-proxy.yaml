@@ -16,3 +16,4 @@ payload:
   - DOMAIN-SUFFIX,kemono.su
   - GEOSITE,discord
   - GEOIP,discord
+  - GEOIP,cloudflare
