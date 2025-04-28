@@ -2,3 +2,4 @@ payload:
   - PROCESS-NAME,helldivers2.exe
   - PROCESS-NAME,prismlauncher.exe
   - PROCESS-NAME,PathOfExileSteam.exe
+  - DOMAIN-SUFFIX,gismeteo.ru
