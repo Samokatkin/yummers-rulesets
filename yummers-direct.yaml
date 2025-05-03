@@ -2,4 +2,7 @@ payload:
   - PROCESS-NAME,helldivers2.exe
   - PROCESS-NAME,prismlauncher.exe
   - PROCESS-NAME,PathOfExileSteam.exe
+  - PROCESS-NAME,FortniteClient-Win64-Shipping.exe
+  - PROCESS-NAME,FortniteClient-Win64-Shipping_EAC_EOS.exe
+  - PROCESS-NAME,FortniteLauncher.exe
   - DOMAIN-SUFFIX,gismeteo.ru
