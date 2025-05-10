@@ -17,3 +17,4 @@ payload:
   - GEOSITE,discord
   - GEOIP,discord
   - GEOIP,cloudflare
+  - DOMAIN-SUFFIX,multiworld.news
