@@ -18,3 +18,4 @@ payload:
   - GEOIP,discord
   - GEOIP,cloudflare
   - DOMAIN-SUFFIX,multiworld.news
+  - DOMAIN-SUFFIX,tiktok.com
