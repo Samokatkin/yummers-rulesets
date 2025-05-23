@@ -7,3 +7,4 @@ payload:
   - PROCESS-NAME,FortniteLauncher.exe
   - DOMAIN-SUFFIX,gismeteo.ru
   - PROCESS-NAME,Grounded.exe
+  - DOMAIN-SUFFIX,backloggd.com
