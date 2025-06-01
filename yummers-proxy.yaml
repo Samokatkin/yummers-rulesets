@@ -1,5 +1,4 @@
 payload:
-  - GEOSITE,google-gemini
   - PROCESS-NAME,Discord.exe
   - PROCESS-NAME,com.supercell.clashofclans
   - PROCESS-NAME,com.supercell.brawlstars
@@ -8,14 +7,10 @@ payload:
   - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,ua
   - DOMAIN-SUFFIX,remna.st
-  - GEOSITE,ookla-speedtest
-  - GEOSITE,cloudflare
+  - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,yaoilib.net
   - PROCESS-PATH,com.discordapp.Discord
   - DOMAIN-SUFFIX,jut.su
   - DOMAIN-SUFFIX,kemono.su
-  - GEOSITE,discord
-  - GEOIP,discord
-  - GEOIP,cloudflare
   - DOMAIN-SUFFIX,multiworld.news
   - DOMAIN-SUFFIX,tiktok.com
