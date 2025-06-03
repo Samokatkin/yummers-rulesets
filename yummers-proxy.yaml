@@ -14,3 +14,4 @@ payload:
   - DOMAIN-SUFFIX,kemono.su
   - DOMAIN-SUFFIX,multiworld.news
   - DOMAIN-SUFFIX,tiktok.com
+  - PROCESS-PATH,parsecd.exe
