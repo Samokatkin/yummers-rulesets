@@ -6,5 +6,4 @@ payload:
   - PROCESS-NAME,FortniteClient-Win64-Shipping_EAC_EOS.exe
   - PROCESS-NAME,FortniteLauncher.exe
   - DOMAIN-SUFFIX,gismeteo.ru
-  - PROCESS-NAME,Grounded.exe
   - DOMAIN-SUFFIX,backloggd.com
