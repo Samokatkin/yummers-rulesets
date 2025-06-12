@@ -16,3 +16,4 @@ payload:
   - DOMAIN-SUFFIX,tiktok.com
   - PROCESS-NAME,MTGA.exe
   - DOMAIN-SUFFIX,backloggd.com
+  - DOMAIN-SUFFIX,hsguru.com
