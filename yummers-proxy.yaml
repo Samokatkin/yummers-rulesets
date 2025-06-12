@@ -9,7 +9,7 @@ payload:
   - DOMAIN-SUFFIX,remna.st
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,yaoilib.net
-  - PROCESS-PATH,com.discordapp.Discord
+  - PROCESS-NAME,com.discordapp.Discord
   - DOMAIN-SUFFIX,jut.su
   - DOMAIN-SUFFIX,kemono.su
   - DOMAIN-SUFFIX,multiworld.news
@@ -18,3 +18,7 @@ payload:
   - DOMAIN-SUFFIX,backloggd.com
   - DOMAIN-SUFFIX,hsguru.com
   - DOMAIN-SUFFIX,hareruyamtg.com
+  - DOMAIN-SUFFIX,images.igdb.com
+  - PROCESS-NAME,Maine-Win64-Shipping.exe
+  - PROCESS-NAME,Grounded.exe
+  - PROCESS-NAME,GameBarPresenceWriter.exe
