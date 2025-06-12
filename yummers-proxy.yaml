@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,kemono.su
   - DOMAIN-SUFFIX,multiworld.news
   - DOMAIN-SUFFIX,tiktok.com
-  - PROCESS-PATH,parsecd.exe
-  - PROCESS-PATH,teams.exe
-  - PROCESS-PATH,pservice.exe
+  - PROCESS-NAME,parsecd.exe
+  - PROCESS-NAME,teams.exe
+  - PROCESS-NAME,pservice.exe
+  - PROCESS-NAME,MTGA.exe
