@@ -22,3 +22,6 @@ payload:
   - PROCESS-NAME,Maine-Win64-Shipping.exe
   - PROCESS-NAME,Grounded.exe
   - PROCESS-NAME,GameBarPresenceWriter.exe
+  - DOMAIN-SUFFIX,hardwaretester.com
+  - DOMAIN-SUFFIX,hsreplay.net
+  - DOMAIN-SUFFIX,openvpn.net
